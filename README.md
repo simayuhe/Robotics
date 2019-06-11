@@ -1,2 +1,1 @@
-# Robotics
-gym robotics : this is a robotic arm which cotains eight envs , lide、FetchPush、FetchPickAndPlace、HandReach、HandManipulateBlock、HandMainpulateEgg、and HandMainpulatePen. 
+﻿# Roboticsgym robotics : this is a robotic arm which cotains eight envs , FetchReach、FetchSlide、FetchPush、FetchPickAndPlace、HandReach、HandManipulateBlock、HandMainpulateEgg、and HandMainpulatePen. 
